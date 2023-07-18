@@ -1,0 +1,8 @@
+.menu__link{
+margin-right: 2rem;
+align-items: flex-end;
+}
+
+/*.menu__link:hover{
+    text-decoration:underline;
+}*/

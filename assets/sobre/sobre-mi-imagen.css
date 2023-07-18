@@ -1,0 +1,17 @@
+.sobre__mi__imagen{
+    display: flex;
+    justify-content: flex-end;
+    width: 280px;
+    height: 280px;
+    margin:auto;
+    margin-right: 40px;
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.sobre__mi__imagen--jaime{
+    background-image: url('../../assets/img/fotoP.png');
+}

@@ -1,0 +1,7 @@
+.sobre{
+display: flex;
+height: 500px;
+justify-content: space-between;
+align-items: center;
+font-style:italic ;
+}

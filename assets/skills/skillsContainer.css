@@ -1,0 +1,12 @@
+.skills__titulo{
+    display: flex;
+ /*   padding: 64px;*/
+    text-align: center;
+}
+.skillsContainer {
+    margin: 60px;
+    display: grid;
+    width: 90vw;
+    grid-template-columns: repeat(auto-fill, 120px);
+    gap: 20px;
+}

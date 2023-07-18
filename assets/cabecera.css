@@ -1,0 +1,13 @@
+.cabecera {
+    display: flex;
+    padding: 20px;
+    align-items: center;
+        justify-content: space-between;
+        padding-left: 4rem;
+        padding-right: 0.5rem;
+    font-style: italic;
+    font-weight: 580;
+    font-size: 20px;  
+    
+}
+

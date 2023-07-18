@@ -1,0 +1,11 @@
+.sobre__links{
+    
+    display:flex;
+    gap: 20px;
+    
+}
+
+.sobre__links :hover{
+text-decoration:underline;
+
+}

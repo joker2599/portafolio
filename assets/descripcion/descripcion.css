@@ -1,0 +1,11 @@
+.descripcion{
+    display: flex;
+        flex-direction: column;
+        width: auto;
+        height: 253px;
+        padding: 64px;
+        gap: 20px;
+        background-color: rgb(209, 230, 237);
+        font-style: italic;
+        font-size: 28px
+}

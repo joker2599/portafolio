@@ -1,0 +1,26 @@
+.skills{
+    margin: 20px;
+
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 120px;
+    box-shadow: 10px 10px 20px rgba(110, 110, 110, 0.521);
+    justify-content: end;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.card--icon {
+    width: 30px;
+    height: 30px;
+}
+
+.card--titulo {
+    font-size: 16px;
+}
+
+
+
